@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aulicus his dream, of the Kings sudden comming to London</title>
+            <author>Cheynell, Francis, 1608-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08742</idno>
+            <idno type="STC">Wing C3807</idno>
+            <idno type="STC">ESTC R223592</idno>
+            <idno type="EEBO-CITATION">64551087</idno>
+            <idno type="OCLC">ocm 64551087</idno>
+            <idno type="VID">184462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184462)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2864:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aulicus his dream, of the Kings sudden comming to London</title>
+                  <author>Cheynell, Francis, 1608-1665.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Ann. Dom. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Francis Cheynell.  Cf. Wing (2nd ed.).</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184462:1" rendition="simple:additions"/>
+            <p>AULICUS HIS DREAM, OF THE Kings ſudden Comming TO LONDON.</p>
+            <p>Printed, <hi>Ann. Dom.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184462:2"/>
+            <pb n="1" facs="tcp:184462:2"/>
+            <head>AULICUS HIS DREAM.</head>
+            <q>
+               <l>Hollow mee Phantaſie where haſt thou been?</l>
+               <l>At Court I have been towring,</l>
+               <l>The plaines I have been ſcouring,</l>
+               <l>On an Errand for the Queen.</l>
+            </q>
+            <p>
+               <seg rend="decorInit">M</seg>Y criticall part corrects my phantaſie, as the ſage Father did his Sonne <hi>Ovid</hi> for making Verſes; but my phantaſie having borrowed an argu<g ref="char:EOLhyphen"/>ment from my <hi>Intellectus agens</hi> (as they lay in bed together, taking counſell of their pillow) Replyed; Why what doe yee think of the Poets, had they no Judgement? Yes ſure, ſaith <hi>Criſis,</hi> they that write in Verſe, are to bee reckoned next to them for judgement and wiſedome who write in proſe. But to tell you the truth, before the diſpute was ended there was one ſent with a black rod (not to diſſolve the Parliament at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> but) to charme my ſences, and I fell aſleep faſt, for I was weary of trotting up and down in my Pilgrimage on the errand aforeſaid, and yet my Pilgrimage was no pennance becauſe vo<g ref="char:EOLhyphen"/>luntary. In the middeſt of my refreſhing ſleep, I fell into a pleaſing dreame.</p>
+            <p>Firſt, I began to conceive that there was a free paſſage from
+<pb n="2" facs="tcp:184462:3"/>
+               <hi>Oxford</hi> to <hi>London,</hi> for any Lord, Lady, Laundreſſe, &amp;c, as if Col. <hi>Tompſon</hi> our learned <hi>Littletous</hi> Agent, were bribed to make legges and faces for them.</p>
+            <p>Then I pleaſed my ſelfe with the thoughts of the Citizens Propoſitions for the raiſing of 20000 men, ſuch as our good friends thought to hire men that would have done the Queen ſervice enough had they never been preſſed to it or rewarded for it, with the Auxiliaries victuals: Perchance ſome may ſay that <hi>Aulicus</hi> doth tell lies, and dreame truths. But as ſure as can bee, the Auxiliaries were the confiding men, and yet ſome good ſimple Citizens were willing to withdraw that one meale from theſe truſty Auxiliaries, who made fourteen meales upon that one meale, that they might diſarm, nay ſtarve their friends, and feaſt their enemies; the truth is, I laughed ſo heartily at this jeaſt that I had almoſt awaked my ſelfe with laughing.</p>
+            <p>Not long after, there came to my thinking a gallant Trum<g ref="char:EOLhyphen"/>peter to <hi>London</hi> (their grand Garriſon) with <hi>C. R.</hi> upon his breaſt, who had the favour to ride unblindfolded as farre as <hi>Pindars pride or Fiſhers folly,</hi> and that very night <hi>Henry</hi> of the Low-Countreys, I ſay, not <hi>Holland</hi> rid out of <hi>London</hi> towards the Royall Quarters at <hi>Reding;</hi> I hope no body heares mee, for I dreame as ſoftly as if I did whiſper, yet I am not willing to whiſper ſome ſecrets of my dreame for fear of being overheard; the Rebels have more whiſpering places then that of <hi>Gloceſter,</hi> a City that God hath bleſſed the more becauſe our <hi>Cavalry</hi> have ſo often curſed it.</p>
+            <p>This dreame being over, I fell into a gentle ſlumber, and afterwards into a melancholly dreame, I dream't full ſadly, that Alderman <hi>Pennington</hi> was to be ſent on ſhipbord, and Sir <hi>Iohn Conniers</hi> reſtored to his old Lievtenantſhip of the Tower by whoſe motion, I leave to the Reader to conſider: pardon me if I dreame waking.</p>
+            <p>I remember that <hi>Bellarmine</hi> (as that Italian ſaid) dreamt once upon a time that he was in Purgatory, but he awaked and found that he was beſhit: the Italian ſpoke plaine, and ſo muſt I. It is confeſſed that I have dreamt my ſelfe into a Fooles Paradiſe, I fancy our condition better and
+<pb n="4" facs="tcp:184462:3"/>fairer then indeed it is; for I heare that the Citizens begin to grumble, and feare that there is ſome deſigne upon them, they will have the Tower ſecured their Out<g ref="char:EOLhyphen"/>guards doubled and trebled; nay, they are offended that ſome Ladies are at liberty, ſome Priſoners releaſed and ſome confiding men impriſoned. But the laſt part of my dream pleaſed me beſt: I ſaw (what within theſe two dayes ſome hope to ſee by day light) the Kings Majeſty riding into <hi>Lon<g ref="char:EOLhyphen"/>don</hi> in State, attended with — &amp;c. hee poſted by <hi>White Hall</hi> and Saint <hi>Iames's,</hi> and came directly to the Houſe of Peeres, the Speaker of the Houſe of Commons was ſent for, and his Majeſty beſpake them after this manner.</p>
+            <p>My Lords, and you Mr Speaker ſhall ſee that fulfilled before your eyes upon this happy day, which you have ſo often beg<g ref="char:EOLhyphen"/>ged with prayers and teares. We are now returned to our be<g ref="char:EOLhyphen"/>loved Parliament of <hi>England,</hi> and are welcomed hither by the good affections of our Lords and bleſſings of our People. You may remember that in our Meſſage on the 8 of April 1642. we did aſſure you of our Princely reſolution to goe into <hi>Ireland,</hi> (not declining any hazard of our own Perſon) that we might performe that duty which we owe to the defence of Gods true Religion, and our diſtreſſed Subjects, and might ſettle the peace of that Kingdome and ſecurity of this by chaſtiſing thoſe wicked and deteſtable Rebels odious to God and all good men. We offered to raiſe two thouſand foot and two hundred horſe in the Counties neere <hi>Weſtcheſter,</hi> where we deſired that they might be armed from our Magazine at <hi>Hull</hi> for a Guard for our owne Perſon when we ſhould have come into <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reland,</hi> but we could not then prevaile with our Parliament to defray the charge of raiſing and paying that our forementioned Guard; And therefore we have ſince been forced to make uſe of ſome of thoſe Catholikes for our neceſſary defence, againſt Anabaptiſts and Browniſts, men we truſt equally odious both to you and us. For we have reaſon to beleeve, that you doe now at laſt ſee your owne errour which you fell into by your cauſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe jealouſies, and ſome unworthy ſuggeſtions of neceſſity and imminent danger; for we defie the Devill to prove that there was any deſigne with our knowledge or privity for the diſſolution of this Parliament, which we have been ever care<g ref="char:EOLhyphen"/>full
+<pb n="4" facs="tcp:184462:4"/>to preſerve according to our Act of Grace, our Act for the continuance of this Parliament. We underſtand that you have now prepared twenty ſix Articles to treat upon for the ſetling of a bleſſed peace in this our Kingdome of <hi>England:</hi> we deſire to heare them read, and wee are ready to ſubſcribe them all, which in our underſtanding (of which God hath ſurely given us ſome uſe) ſeeme fit to be ſubſcribed.</p>
+            <p>Vpon this gracious ſpeech, it was expected that ſome dutifull Anſwer ſhould be returned: but the Speaker of the Houſe of Peeres was no Speaker <hi>pro tempore,</hi> and the reſt of the Lords were in as deep a dreame as mine owne.</p>
+            <p>The Speaker of the Houſe of Commons was diſmiſſed, and when hee came to his Chaire, he ſate ammuſed; but there ſtarted up a Weſterne Sparke, and cryed, What Mr Speaker? his Majeſty in the Houſe of Peers? a dreame or not a dreame? Is this the fruit of all our expenſe of blood, treaſure, pains, time, ſpirits, and lives? Is this the end of all our treating and cove<g ref="char:EOLhyphen"/>nanting? no reformation of religion Mr Speaker? <hi>durus ſermo;</hi> are all the Priviledges of Parliament, and liberties of the ſub<g ref="char:EOLhyphen"/>ject loſt in a moment? ſhall we and our poſterity be condem<g ref="char:EOLhyphen"/>ned to a perpetuall ſlavery? is there no remedy? I hope you will have ſuch a care of his Majeſty as no Delinquents ſhall have acceſſe to his perſon; I humbly conceive we muſt deſire ſomething which is ſafer for you to think, then for me to ſpeak.</p>
+            <p>The Speech was ended, but my Dreame continued: His Ma<g ref="char:EOLhyphen"/>jeſty went from the Houſe of Peeres to <hi>White-hall,</hi> and then all his old Friends (whom <hi>Britannicus</hi> calls Malignants) made their humble addreſſes to him, and deſired him not to hearken to the Propoſitions for Peace, they aſſured him that now he had the greateſt advantage of the Parliament that ever he was bleſſed with; for he could not want Lords, and there might be a quicke courſe taken with ten or a dozen of the Houſe of Commons and then all was cock ſure; they certified him that he had a greater intereſt in the affections of the City then he imagined, for now all Neuters and indifferent men were ready to declare themſelves againſt the Parliament; the zealous men would grow colder and colder every day. But amongſt the reſt, one in a Fox-ſurred Gowne, whoſe gray haires made even his iniquity it ſelfe venerable, having ſcratched his crafty pate, and
+<pb facs="tcp:184462:4"/>ſtroaked his beard, cryed, Sir, if it may pleaſe your Majeſty to confide in your good Catholike Subjects, all will be well; for there are a conſiderable number of them lurking about this Ci<g ref="char:EOLhyphen"/>ty, and their number is well encreaſed ſince your Majeſtie came ſafe to Towne. Moreover, our Prieſts have an intereſt in ſome Ladies, who call themſelves Proteſtants, and you will finde them active for her Majeſtie; divers of them came from <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> on purpoſe to ſerve her at a greater diſtance where they might be leaſt ſuſpected. But one word more: Draw up your Army, eſpecially your Iriſh Regiments as neare the City as you can, there will be a courſe taken to encourage them with money, and in time of Treatie they may march far in a night without a ſafe-conduct: You underſtand my meaning, I have opened my ſelf to fat to ſo wiſe a Prince.</p>
+            <p>I would faine have ſtepped into the Citie, but my pleaſant phantaſie ſent my man <hi>Morpheus</hi> thither, who taking a piece of tranſparent Glaſſe, and ſtanding cloſe in the <hi>Exchange</hi> ſoa<g ref="char:EOLhyphen"/>dred the back-ſide of the Glaſſe with a kinde of ſilver-lead, and brought me all the <hi>ſpecies</hi> of the Merchants mindes repreſented in a fixed and well proportioned image.</p>
+            <p>Firſt there came a Merchant, who in his zeale and gravitie, with eyes exalted heaven-wards, ſeemed to bleſſe God for an<g ref="char:EOLhyphen"/>ſwering all the good prayers powred forth in the monethly Faſts, for his Majeſties happy returne to his great Councell. Next came a rude, but underſtanding fellow, who interrupted him in his devotions with an untimely jogge, and told him he did but offer up the Sacrifice of Fooles: for believe it Sir (ſaith he) unleſſe we take ſome ſpeedy courſe, within theſe 24 hours at fartheſt, all is loſt, all is loſt; for (Sir) you know the Com<g ref="char:EOLhyphen"/>mittee of both Kingdomes is not now ſitting, and you know the conjuncture of ſad ſymptomes: and then he run over all the former parts of my unhappy Dreame from point to point. His brother Merchant was cleane put out of his gravity, and began to talke Treaſon as readily as they uſe to doe at <hi>Salters</hi>-Hall: Well (ſaith he) if we had been wiſe enough to have prevented the Kings comming, all had been ſafe, but now we muſt play an after-game: Well, call a Common-Councell, conſult the <hi>Mi<g ref="char:EOLhyphen"/>litia,</hi> petition the Houſe of Commons, be wiſe and valiant, or elſe all is loſt indeed.</p>
+            <pb n="6" facs="tcp:184462:5"/>
+            <p>Juſt about this time I awaked, and ſaw the Auxili<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drawn up into a body by an avowed order, I asked the cauſe, but could not learn it ſome ſaid, that divers men of honour and honourable men had engaged their honour that there ſhould not bee any Tumults or inſurrections whilſt his Majeſty thought fit to ſtay at <hi>White-Hall,</hi> and though this ſudden ap<g ref="char:EOLhyphen"/>pearance or men in Armes looked like an Inſurrection; yet the truth was they were raiſed in an orderly way to prevent all Tumults and Inſurrections of any part whatſoever that were diſaffected to King or Parliament.</p>
+            <p>But his Majeſty was ſomewhat diſpleaſed with this appea<g ref="char:EOLhyphen"/>rance and only ſent to his Agents to know what conſiderable party he had in both Houſes and in the City, and bid them ſend in what money they had ready for the encouragement of his Army, for he knew by ſad experience that the City would be backed by all the Adjacent Counteys. Hah am I yet awake, or doe I dreame ſtill. No ſure I am awake and all the City of <hi>London</hi> faſt aſleep, I will ſing and awake them:
+<q>
+                  <l>O the pretty wily Fox,</l>
+                  <l>With her many Tricks and Mocks,</l>
+                  <l>We will earth her, if you'l but follow:</l>
+                  <l>With a prethee treat prethee treat, prethee, prethee, prethee treat,</l>
+                  <l>No your treaties are but hollow:</l>
+                  <l>Wee'l not treat, you'l but cheat,</l>
+                  <l>Advance, advance, they'l retreat:</l>
+                  <l>Treaty is treachery,</l>
+                  <l>Wee'l not treat, no not wee.</l>
+               </q>
+            </p>
+            <p>Now, they are awake, wee'l pray, God grant that ſome men be not puniſhed by a grant of their very prayers: Lord, let not the <hi>Lords</hi> be ſeduced, the <hi>Commons</hi> ſurpriſed the City over<g ref="char:EOLhyphen"/>reached the Kingdome betrayed, by a deceitfull Treaty and a falſe peace: <hi>Quantas O quantas evertere domos optantibus ipſis, Du faciles, &amp;c.</hi>—</p>
+            <closer>
+               <hi>Oxford, Wallingford, Wincheſter, Baſing, Reading, London,</hi> bee wiſe, and be not undone,
+<dateline>
+                  <date>
+                     <hi>May</hi> 15. 1644.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
